@@ -24,3 +24,6 @@ Icon
 Network Trash Folder
 Temporary Items
 .apdisk
+
+#File for updates in Jupyter Notebook
+.ipynb_checkpoints
