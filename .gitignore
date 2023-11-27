@@ -25,5 +25,6 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-#File for updates in Jupyter Notebook
-.ipynb_checkpoints
+# Ignore all files in a directory called ipynb_checkpoints/
+.ipynb_checkpoints/
+.vscode/
